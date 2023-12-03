@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrden9STuEf1/UcJpdR0lt1gctUicj4wAEmU4uxy2Nxr5b5ZCXbdBylVYHivoo4aR9y/vJxt26o8gUhjNStOKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wishg\\source\\repos\\IsracardTaskServer\\IsracardTaskServer\\IsracardTaskServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wishg\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\wishg\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\wishg\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\wishg\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\wishg\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\wishg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\wishg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
