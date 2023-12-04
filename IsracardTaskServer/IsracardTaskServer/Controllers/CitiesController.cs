@@ -17,18 +17,7 @@ namespace IsracardTaskServer.Controllers
     [Route("[controller]")]
     public class CitiesController : ControllerBase
     {
-        private static readonly string[] Summaries = new[]
-        {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-        };
-
-        private readonly ILogger<CitiesController> _logger;
-
-        public CitiesController(ILogger<CitiesController> logger)
-        {
-            _logger = logger;
-        }
-
+        
         [HttpGet]
         public IEnumerable<City> Get()
         {
