@@ -55,7 +55,7 @@ namespace IsracardTaskServer.Controllers
                 }
             }
 
-            return cities;
+            return cities.OrderBy(x => x.name).ToList();
         }
     }
 }
